@@ -5,3 +5,5 @@ This project contains a shopping list application developed using HTML, CSS, and
 - Add, filter, update, and remove shopping list items.
 - Store your shopping list using local storage to preserve your data.
 - It is a static website
+
+https://shopping-list-v1-hexx1n0v2-kadir-kagan-yuksels-projects.vercel.app/
